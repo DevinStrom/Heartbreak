@@ -23,6 +23,6 @@ Final Project
         </div>
         <%-- sending name as get param idea: https://docs.oracle.com/cd/A97329_03/web.902/a95882/basics.htm#1014110 --%>
         <div class="center-like-photo"> <div class="background-login"><a href="Profile?username=${tweet.username}">${tweet.username}</a></div></div>
-        <div class="left-text">${tweet.text}</div>  
+        <div class="left-text">${tweet.text}</div> 
     </div>
 </c:forEach>
