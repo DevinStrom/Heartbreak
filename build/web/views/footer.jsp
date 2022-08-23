@@ -16,7 +16,7 @@ Final Project
 </div>
 
 <footer>
-    Devin Strom, Final Project
+    Devin Strom, Final Project 
 </footer>
 </div> 
 </body>
