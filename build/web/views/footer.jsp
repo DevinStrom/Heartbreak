@@ -16,7 +16,7 @@ Final Project
 </div>
 
 <footer>
-    Devin Strom, CIS 2454, Prof. Charnesky, Final Project
+    Devin Strom, Final Project
 </footer>
 </div> 
 </body>
